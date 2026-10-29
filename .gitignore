@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+_outline_main.html
+_outline_thanks.html
+_main.css
+_thanks.css
+_images.json
+_extract.js
+_assets.js
